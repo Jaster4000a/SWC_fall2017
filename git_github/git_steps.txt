@@ -1,0 +1,4 @@
+git add FILENAME
+git commit -m FILENAME
+git log
+git status
